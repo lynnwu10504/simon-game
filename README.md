@@ -10,4 +10,4 @@ The game will add one color to the sequence as the level goes up. The users need
 
 ### Executing Program
 
-Download all the files and run the HTML file.
+Try the game [here](https://lynnwu10504.github.io/simon-game.github.io/) or download all the files and run the HTML file.
